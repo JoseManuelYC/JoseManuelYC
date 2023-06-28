@@ -2,12 +2,12 @@
 
 
 <p>I am José Yanez from San Cristóbal, Venezuela. I'm 24 years old, and I'm a front-end developer. A great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a full stack developer is my goal🏁🎮</p>
-<img src="https://media4.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=ecf05e47b7g06tfepkciodsnfciz3auip74q7q6yd63bokh0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
+
 <hr>
 
 ### Tech Stack and Knowledge 🌐
-<br>
-
+<hr>
+<img align="right" src="https://media4.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=ecf05e47b7g06tfepkciodsnfciz3auip74q7q6yd63bokh0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
 <table>
   <tbody>
     <tr valign="top">
@@ -88,9 +88,9 @@
     </tr>
   </tbody>
 </table>
-
-
+<hr>
 ### Other Accounts 📫 
+<hr>
 
 You can find and get touch with me on these accounts!
 <br> <br>
