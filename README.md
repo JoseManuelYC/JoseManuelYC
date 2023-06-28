@@ -7,7 +7,7 @@
 
 ### Tech Stack and Knowledge 🌐
 <hr>
-<img align="right" src="https://media4.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=ecf05e47b7g06tfepkciodsnfciz3auip74q7q6yd63bokh0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="GIF">
+<img align="right" src="https://media4.giphy.com/media/UcK7JalnjCz0k/giphy.gif?cid=ecf05e47b7g06tfepkciodsnfciz3auip74q7q6yd63bokh0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="GIF">
 <table>
   <tbody>
     <tr valign="top">
