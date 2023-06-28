@@ -56,7 +56,7 @@
      </tr>
      <tr valign="top">
       <td width="20%" align="center">
-        <span>Jest JS</span><br><br><br>
+        <span>Jest JS</span><br><br>
         <img height="64px" src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4" alt="jestjs logo">
       </td>
       <td width="20%" align="center">
@@ -72,7 +72,7 @@
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase logo">
       </td>
         <td width="20%" align="center">
-       <span>𝗚𝗶𝘁</span><br><br><br>
+       <span>𝗚𝗶𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
      </tr>
