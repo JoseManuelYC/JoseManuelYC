@@ -79,7 +79,7 @@
     <tr valign="top"> 
        <td width="20%" align="center">
         <span>Nest JS</span><br><br>
-        <img height="64px" src="[https://avatars.githubusercontent.com/u/14985020?s=48&v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png)" alt="nestjs logo">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="nestjs logo">
       </td>
        <td width="20%" align="center">
         <span>NodeJS</span><br><br>
