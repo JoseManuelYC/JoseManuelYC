@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p>I am José Yanez from San Cristóbal, Venezuela. I'm 24 years old, and I'm a front-end developer. A great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a full stack developer is my goal🏁🎮</p>
+<p>I am José Yanez from San Cristóbal, Venezuela. I'm 24 years old, and I'm a web developer. A great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a full stack developer is my goal🏁🎮</p>
 
 <hr>
 
