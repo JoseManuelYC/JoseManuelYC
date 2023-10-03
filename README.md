@@ -76,7 +76,11 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
      </tr>
-    <tr valign="top">   
+    <tr valign="top"> 
+       <td width="20%" align="center">
+        <span>Nest JS</span><br><br>
+        <img height="64px" src="[https://avatars.githubusercontent.com/u/14985020?s=48&v=4](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png)" alt="nestjs logo">
+      </td>
        <td width="20%" align="center">
         <span>NodeJS</span><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo">
