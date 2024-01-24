@@ -105,5 +105,5 @@ You can find and get touch with me on these accounts!
 
 ### Thanks... <img src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/f61c53b1-1fe5-491c-9822-e99b43669535">
 
-<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=pie)](https://github.com/anuraghazra/github-readme-stats))</a>
 
