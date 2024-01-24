@@ -104,6 +104,7 @@ You can find and get touch with me on these accounts!
 <a target="_blank" href="https://www.instagram.com/_joseyanez/?hl=es"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"></a>
 
 ### Thanks... <img src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/f61c53b1-1fe5-491c-9822-e99b43669535">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseManuelYC&theme=dark&show_icons=true&count_private=true&hide=prs)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoseManuelYC)](https://github.com/anuraghazra/github-readme-stats)
+<a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseManuelYC&theme=dark&show_icons=true&count_private=true&hide=prs)</a>
+
+<a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
