@@ -93,6 +93,11 @@
         <span>Docker</span><br><br>
         <img height="64px" src="https://www.docker.com/wp-content/uploads/2023/08/logo-dont-stretch.svg" alt="docker logo">
       </td>
+       <td width="20%" align="center">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SmNjy_sTZ_K5wLojJ65x7wlRoBlmi4L68dA_vqeU8w&s" alt="grahQL logo">
+      </td>
+      https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SmNjy_sTZ_K5wLojJ65x7wlRoBlmi4L68dA_vqeU8w&s
     </tr>
   </tbody>
 </table>
