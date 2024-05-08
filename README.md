@@ -114,9 +114,14 @@
 
 You can find and get touch with me on these accounts!
 <br> <br>
+
+<p align="center">
 <a target="_blank" href="mailto:joseyanezcontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"></a>
 <a target="_blank" href="https://www.linkedin.com/in/joseyanez07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"></a>
 <a target="_blank" href="https://www.instagram.com/_joseyanez/?hl=es"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"></a>
+</p>
 
-### Thanks... <img src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/f61c53b1-1fe5-491c-9822-e99b43669535">
+<p align="center">  
+<img src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/f61c53b1-1fe5-491c-9822-e99b43669535">
+</p>
 
