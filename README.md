@@ -89,6 +89,10 @@
         <span>VS Code</span><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo">
       </td>
+      <td width="20%" align="center">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://www.docker.com/wp-content/uploads/2023/08/logo-dont-stretch.svg" alt="docker logo">
+      </td>
     </tr>
   </tbody>
 </table>
