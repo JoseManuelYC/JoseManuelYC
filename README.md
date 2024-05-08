@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p>I am José Yanez from San Cristóbal, Venezuela. I'm 24 years old, and I'm a web developer. A great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a full stack developer is my goal🏁🎮</p>
+<p>I am José Yanez from San Cristóbal, Venezuela. I'm 24 years old, and I'm a web developer. A great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a full stack developer is my goal🏁. I'm currently working as a Backend Developer using NestJS, GraphQL, Docker, AWS, TypeORM and testing with Jest</p>
 
 <hr>
 
@@ -11,49 +11,27 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+       <td width="20%" align="center">
+        <span>Nest JS</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="nestjs logo">
       </td>
       <td width="20%" align="center">
         <span>TypeScript</span><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo">
       </td>
-        <td width="20%" align="center">
-        <span>React JS</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo">
+      <td width="20%" align="center">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://www.docker.com/wp-content/uploads/2023/08/logo-dont-stretch.svg" alt="docker logo">
       </td>
        <td width="20%" align="center">
-        <span>Next JS</span><br><br>
-        <img height="64px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" alt="nextjs logo">
+        <span>GrahQL</span><br><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SmNjy_sTZ_K5wLojJ65x7wlRoBlmi4L68dA_vqeU8w&s" alt="grahQL logo">
+      </td>
+       <td width="20%" align="center">
+        <span>NodeJS</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo">
       </td>
       </tr>
-      <tr valign="top">
-      <td width="20%" align="center">
-        <span>Vite JS</span><br><br>
-        <img height="64px" src="https://vitejs.dev/logo-with-shadow.png" alt="vite logo">
-      </td>
-         <td width="20%" align="center">
-        <span>MaterialUI</span><br><br>
-        <img height="64px" src="https://avatars.githubusercontent.com/u/33663932?s=48&v=4" alt="material-ui logo">
-      </td>
-      <td width="20%" align="center">
-      <span>Bootstrap</span><br><br>
-        <img height="64px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap logo">
-      </td>
-         <td width="20%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-        <td width="20%" align="center">
-        <span>Testing Library</span><br><br>
-        <img height="64px" src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library logo">
-      </td>
-     </tr>
      <tr valign="top">
       <td width="20%" align="center">
         <span>Jest JS</span><br><br>
@@ -76,28 +54,49 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
      </tr>
+      <tr valign="top">
+      <td width="20%" align="center">
+        <span>Vite JS</span><br><br>
+        <img height="64px" src="https://vitejs.dev/logo-with-shadow.png" alt="vite logo">
+      </td>
+         <td width="20%" align="center">
+        <span>MaterialUI</span><br><br>
+        <img height="64px" src="https://avatars.githubusercontent.com/u/33663932?s=48&v=4" alt="material-ui logo">
+      </td>
+      <td width="20%" align="center">
+      <span>Bootstrap</span><br><br>
+        <img height="64px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap logo">
+      </td>
+         <td width="20%" align="center">
+        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+        <td width="20%" align="center">
+        <span>Testing Library</span><br><br>
+        <img height="64px" src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library logo">
+      </td>
+     </tr>
     <tr valign="top"> 
        <td width="20%" align="center">
-        <span>Nest JS</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="nestjs logo">
+        <span>Next JS</span><br><br>
+        <img height="64px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" alt="nextjs logo">
       </td>
-       <td width="20%" align="center">
-        <span>NodeJS</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo">
+      <td width="20%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+        <td width="20%" align="center">
+        <span>React JS</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo">
       </td>
        <td width="20%" align="center">
         <span>VS Code</span><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo">
       </td>
-      <td width="20%" align="center">
-        <span>Docker</span><br><br>
-        <img height="64px" src="https://www.docker.com/wp-content/uploads/2023/08/logo-dont-stretch.svg" alt="docker logo">
-      </td>
-       <td width="20%" align="center">
-        <span>Docker</span><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SmNjy_sTZ_K5wLojJ65x7wlRoBlmi4L68dA_vqeU8w&s" alt="grahQL logo">
-      </td>
-      https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SmNjy_sTZ_K5wLojJ65x7wlRoBlmi4L68dA_vqeU8w&s
     </tr>
   </tbody>
 </table>
