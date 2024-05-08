@@ -44,9 +44,9 @@
         <span>Jest JS</span><br><br>
         <img height="64px" src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4" alt="jestjs logo">
       </td>
-      <td width="20%" align="center">
-        <span>React Router</span><br><br>
-        <img height="64px" src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/a109a4b0-0850-4353-bb1d-2d62ee8eaf83" alt="react-router-logo">
+       <td width="20%" align="center">
+        <span>PostgreSQL</span><br><br>
+        <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="Postgres logo">
       </td>
         <td width="20%" align="center">
        <span>React Redux</span><br><br>
@@ -100,9 +100,9 @@
         <span>React JS</span><br><br>
         <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo">
       </td>
-       <td width="20%" align="center">
-        <span>VS Code</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo">
+      <td width="20%" align="center">
+        <span>React Router</span><br><br>
+        <img height="64px" src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/a109a4b0-0850-4353-bb1d-2d62ee8eaf83" alt="react-router-logo">
       </td>
     </tr>
   </tbody>
