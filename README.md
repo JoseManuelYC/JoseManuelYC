@@ -4,7 +4,7 @@
 
 
 
-<p>I'm José Yanez from San Cristóbal, Venezuela. I'm 25 years old, and I'm a web developer. A great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a great back-end developer🏁. I'm currently working as a Backend Developer using NestJS, GraphQL, Docker, AWS, TypeORM and testing with Jest</p>
+<p>I'm Jose Yanez, I'm a great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a great back-end developer🏁. I'm currently working as a Backend Developer using NestJS, GraphQL, Docker, AWS, TypeORM and testing with Jest</p>
 <p align="center">
   <img width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZsMjZvMTZlcGNnd3YzZm00aW8wZnhheDNydDF1NG9zaWo0N2RhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 </p>
