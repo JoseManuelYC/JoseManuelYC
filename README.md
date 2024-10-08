@@ -49,8 +49,8 @@
         <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="Postgres logo">
       </td>
         <td width="20%" align="center">
-       <span>React Redux</span><br><br>
-        <img height="64px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="vscode logo">
+        <span>MongoDB</span><br><br>
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb logo">
       </td>
       <td width="20%" align="center">
         <span>FireBase</span><br><br>
@@ -63,8 +63,8 @@
      </tr>
       <tr valign="top">
       <td width="20%" align="center">
-        <span>MongoDB</span><br><br>
-        <img height="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb logo">
+      <span>React Redux</span><br><br>
+        <img height="64px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="vscode logo">
       </td>
          <td width="20%" align="center">
         <span>MaterialUI</span><br><br>
