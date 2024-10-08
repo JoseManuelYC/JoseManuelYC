@@ -63,8 +63,8 @@
      </tr>
       <tr valign="top">
       <td width="20%" align="center">
-        <span>Vite JS</span><br><br>
-        <img height="64px" src="https://vitejs.dev/logo-with-shadow.png" alt="vite logo">
+        <span>MongoDB</span><br><br>
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb logo">
       </td>
          <td width="20%" align="center">
         <span>MaterialUI</span><br><br>
