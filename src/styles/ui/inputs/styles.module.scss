@@ -1,0 +1,16 @@
+@import '/src/styles/variables.scss';
+
+.input {
+  width: 100%;
+  border: none !important;
+  background: $gray !important;
+  border-radius: 11px !important;
+}
+
+.password {
+  width: 100%;
+
+  input {
+    @extend .input;
+  }
+}

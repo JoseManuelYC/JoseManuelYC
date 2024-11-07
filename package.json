@@ -1,0 +1,42 @@
+{
+  "private": true,
+  "license": "MIT",
+  "name": "joseportfolio",
+  "version": "1.0.0",
+  "author": "JoseManuelYC <joseyanezcontact@gmail.com>",
+  "repository": "https://github.com/JoseManuelYC/joseportfolio",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint --fix",
+    "postinstall": "husky install",
+    "format": "prettier --write \"src/**/*.tsx\" \"src/**/*.ts\" \"pages/**/*.ts\" \"pages/**/*.tsx\""
+  },
+  "dependencies": {
+    "bootstrap": "5.2.3",
+    "dayjs": "1.11.6",
+    "next-pwa": "5.6.0",
+    "framer-motion": "10.16.4",
+    "next": "13.4.19",
+    "primeicons": "6.0.1",
+    "primereact": "8.7.2",
+    "react": "18.2.0",
+    "react-bootstrap": "2.6.0",
+    "react-bootstrap-icons": "1.10.3",
+    "react-dom": "18.2.0",
+    "sass": "1.67.0",
+    "sharp": "0.31.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.0.9",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.4.19",
+    "husky": "8.0.2",
+    "prettier": "2.8.0",
+    "standard": "17.0.0",
+    "typescript": "5.2.2"
+  }
+}
