@@ -5,7 +5,15 @@ import dayjs from 'dayjs'
 import { bottomToTop, topToBottom } from '@atoms/animations/utils'
 
 // icons
-import { Github, Linkedin, Instagram } from 'react-bootstrap-icons'
+import {
+  Github,
+  Linkedin,
+  Instagram,
+  Tools,
+  ClockHistory
+} from 'react-bootstrap-icons'
+
+import NestJs from '@publics/assets/logos/nestjs.svg'
 
 const timezoneCode = 'America/Caracas'
 const startWorkDate = dayjs('11/01/2023').tz(timezoneCode)
@@ -32,9 +40,14 @@ export const rrss = [
 
 export const info = [
   {
-    title: dayjs().tz(timezoneCode).diff(startWorkDate, 'year'),
-    description: 'Año de experiencia'
+    title: `+ ${dayjs().tz(timezoneCode).diff(startWorkDate, 'year')}`,
+    description: 'Año de experiencia',
+    Icon: ClockHistory
   },
-  { title: 'Junior', description: 'Desarrollador web' },
-  { title: 'Nest Js', description: 'Framework dominante' }
+  { title: 'Junior', description: 'Desarrollador web', Icon: Tools },
+  {
+    title: 'Nest Js',
+    description: 'Framework dominante',
+    Icon: () => <NestJs width='40' height='40' />
+  }
 ]

@@ -49,30 +49,31 @@ export const ProfileCard: FC = () => {
           </div>
           <h2 className={classes.title}>José Yañez</h2>
           <span className={classes.small}>Backend-end developer</span>
-
-          <nav>
-            <ul className={classes.rrss}>
-              {rrss.map(({ link, Icon }) => (
-                <li key={link} className={classes.item}>
-                  <Link href={link}>
-                    <Icon size={32} />
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </nav>
         </DivMotion>
 
         <DivMotion {...animations.textsAnimation}>
-          <Container as='section'>
+          <Container className='mt-4' as='section'>
             <Row className={classes.info}>
-              {info.map((item, idx) => (
+              {info.map(({ title, description, Icon }, idx) => (
                 <Col key={idx} xs={4}>
-                  <p className={classes.title}>{item.title}</p>
-                  <span className={classes.subtitle}>{item.description}</span>
+                  <Icon key={idx} style={{ height: '40px', width: '40px' }} />
+                  <p className={`${classes.title} mt-2`}>{title}</p>
+                  <span className={classes.subtitle}>{description}</span>
                 </Col>
               ))}
             </Row>
+
+            <nav>
+              <ul className={classes.rrss}>
+                {rrss.map(({ link, Icon }) => (
+                  <li key={link} className={classes.item}>
+                    <Link href={link}>
+                      <Icon size={32} />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </nav>
 
             <Row className={classes.actions}>
               <Col className='mb-3' lg={12}>

@@ -8,6 +8,7 @@
   .subtitle {
     color: $white;
     margin-bottom: 1.5rem;
+
     .name {
       font-weight: bold;
       color: $light-primary;
@@ -36,9 +37,12 @@
       }
     }
   }
+  .label {
+    font-size: 20px;
+  }
   .skills {
     max-height: 20rem;
-    overflow: auto;
+    overflow: hidden;
     .item {
       @extend .small;
       color: $white;
