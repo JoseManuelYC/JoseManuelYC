@@ -6,12 +6,12 @@ import {
   EnvelopeFill
 } from 'react-bootstrap-icons'
 
-export const email = 'josejmvasquez@gmail.com'
-export const githubUrl = 'https://github.com/josejmv'
-export const linkedinUrl = 'https://www.linkedin.com/in/josejmv/'
-export const instagramUrl = 'https://www.instagram.com/josemvasquezv/'
+export const email = 'joseyanezcontact@gmail.com'
+export const githubUrl = 'https://github.com/JoseManuelYC'
+export const linkedinUrl = 'https://www.linkedin.com/in/joseyanez07/'
+export const instagramUrl = 'https://www.instagram.com/_joseyanez/'
 export const whatsappUrl =
-  'https://api.whatsapp.com/send/?phone=%2B584147545160&text=Hola,%20Jose%20Manuel%20mucho%20gusto.&type=phone_number&app_absent=0'
+  'https://api.whatsapp.com/send/?phone=%2B584247697245&text=Hola,%20Jose%20Manuel%20mucho%20gusto.&type=phone_number&app_absent=0'
 
 export const items = [
   {
@@ -26,7 +26,7 @@ export const items = [
   },
   {
     icon: Linkedin,
-    label: '@josejmv',
+    label: '@joseyanez07',
     href: linkedinUrl
   }
 ]
@@ -35,11 +35,11 @@ export const rrss = [
   {
     icon: Instagram,
     href: instagramUrl,
-    label: '@josemvasquezv'
+    label: '@_joseyanez'
   },
   {
     icon: Github,
     href: githubUrl,
-    label: '@josejmv'
+    label: '@JoseManuelYC'
   }
 ]

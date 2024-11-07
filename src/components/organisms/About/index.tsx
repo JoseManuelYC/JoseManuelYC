@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 import dayjs from 'dayjs'
 
 // bootstrap components
-import { Container, Row, Col, ListGroup, ProgressBar } from 'react-bootstrap'
+import { Container, Row, Col, ListGroup } from 'react-bootstrap'
 
 // prime components
 import { Rating } from 'primereact/rating'
@@ -19,31 +19,26 @@ import { FC } from 'react'
 
 export const AboutPage: FC = () => {
   const { toast } = useApp()
-  const birthdate = dayjs('04/30/1999')
+  const birthdate = dayjs('05/07/1999')
   const [showRatingComponent, setShowRatingComponent] = useState(false)
 
   const skills = [
-    { label: 'Next.js', progress: 100 },
-    { label: 'Javascript', progress: 100 },
-    { label: 'Typescript', progress: 95 },
-    { label: 'Node.js', progress: 75 },
-    { label: 'Nest.js', progress: 75 },
-    { label: 'Wordpress', progress: 70 },
-    { label: 'C++', progress: 40 },
-    { label: 'Python', progress: 35 }
+    { label: 'Nest Js' },
+    { label: 'Typescript' },
+    { label: 'Node.js' },
+    { label: 'Docker' },
+    { label: 'GraphQL' },
+    { label: 'Jest.Js' },
+    { label: 'Git' }
   ]
 
   const knowledges = [
-    { label: 'Next-auth', progress: 100 },
-    { label: 'React bootstrap', progress: 100 },
-    { label: 'Primereact', progress: 100 },
-    { label: 'Git', progress: 100 },
-    { label: 'Cypress', progress: 90 },
-    { label: 'Sass module', progress: 90 },
-    { label: 'GraphQL', progress: 90 },
-    { label: 'Styled components', progress: 80 },
-    { label: 'Material UI', progress: 85 },
-    { label: 'Tailwind', progress: 75 }
+    { label: 'Firebase' },
+    { label: 'Cloudinary' },
+    { label: 'MongoDB' },
+    { label: 'PostgreSQL' },
+    { label: 'Next.js' },
+    { label: 'Material UI' }
   ]
 
   /**
@@ -51,7 +46,7 @@ export const AboutPage: FC = () => {
    */
   const handleCopyEmail = () => {
     navigator.clipboard
-      .writeText('josejmvasquez@gmail.com')
+      .writeText('joseyanezcontact@gmail.com')
       .then(() =>
         toast()?.show({
           summary: 'Éxito!',
@@ -78,20 +73,37 @@ export const AboutPage: FC = () => {
       <h1 className={classes.title}>Sobre mí</h1>
 
       <h2 className={classes.subtitle}>
-        Hola! mi nombre es{' '}
+        Hola! mi nombre es:{' '}
         <span className={classes.name}>Jose Manuel Yañez Colombo</span>
       </h2>
       <p className={classes.small}>
-        Soy un apasionado por la ciencia y el arte, me gusta aprender muchas
-        cosas nuevas y enfrentar nuevos desafios que lleven al limite mis
-        conocimientos. Me gustan bastante las matematicas y la fisica y quiero
-        profundizar mas en mis estudios de fisica para, en conjunto con la
-        informatica poder avanzar por un campo de inteligencia artificial que
-        impulse la ciencia a niveles nunca antes vistos
+        Soy un apasionado desarrollador Back-end con un enfoque constante en la
+        innovación y el aprendizaje. Desde que comencé mi carrera en el
+        desarrollo de software, he estado fascinado por las nuevas tecnologías y
+        su capacidad para transformar nuestra manera de vivir y trabajar. Cada
+        día es una oportunidad para adquirir nuevos conocimientos y mejorar mis
+        habilidades, y me esfuerzo por mantenerme al día con las últimas
+        tendencias en el mundo de la programación. Fuera del ámbito tecnológico,
+        soy un entusiasta del deporte y la música. Creo firmemente que un estilo
+        de vida activo y un buen equilibrio entre el trabajo y el ocio son
+        fundamentales para el bienestar personal y profesional. La música, por
+        su parte, me inspira y me ayuda a mantenerme enfocado en mis proyectos.
+        En este momento, estoy especialmente interesado en profundizar mis
+        conocimientos en inteligencia artificial. Me fascina cómo esta
+        disciplina está revolucionando diversas industrias y cómo puede ser
+        utilizada para crear soluciones innovadoras y eficientes. Estoy
+        emocionado por explorar las posibilidades que la AI ofrece y cómo puedo
+        integrarla en mis proyectos futuros. Además de mis habilidades técnicas,
+        valoro la colaboración y el trabajo en equipo. Creo que las mejores
+        soluciones surgen del intercambio de ideas y la diversidad de
+        perspectivas. Estoy siempre abierto a aprender de los demás y a
+        compartir mis conocimientos con quienes me rodean.
       </p>
       <p className={classes.small}>
-        Actualmente me desempeño como desarrollador web, especializado en el
-        area de frontend, trabajando con herramientas como Next.js y React.js
+        Actualmente cuento con experiencia como desarrollador web Backend-end
+        con herramientas como Nest Js, GraphQL, Docker, Postgress, TypeORM, Jest
+        JS (Unit test) y he participado en algunos proyectos pequeños como
+        front-end trabajando con herramientas como Next.js y React.js
         principalmente, ademas cuento con una amplia gama de conocimientos en
         herramientas que me permiten desarrollar proyectos de alta calidad con
         muy buenos niveles de seguridad y calidad
@@ -108,7 +120,7 @@ export const AboutPage: FC = () => {
                   <p>{birthdate.format('DD, MMMM [de] YYYY')}</p>
                 </ListGroup.Item>
                 <ListGroup.Item className={classes.item}>
-                  <strong>Título:</strong> <p>Bachiller</p>
+                  <strong>Título:</strong> <p>Bachiller en Ciencias</p>
                 </ListGroup.Item>
                 <ListGroup.Item className={classes.item}>
                   <strong>Residencia:</strong> <p>Venezuela, San Cristóbal</p>
@@ -129,17 +141,17 @@ export const AboutPage: FC = () => {
                   role='button'
                   className={classes.item}
                   onClick={handleCopyEmail}>
-                  <strong>Correo:</strong> <p>josejmvasquez@gmail.com</p>
+                  <strong>Correo:</strong> <p>joseyanezcontact@gmail.com</p>
                 </ListGroup.Item>
                 <ListGroup.Item className={classes.item}>
-                  <strong>Cargo:</strong> <p>Desarrollador frontend</p>
+                  <strong>Cargo:</strong> <p>Desarrollador Back-end</p>
                 </ListGroup.Item>
                 <ListGroup.Item className={classes.item}>
-                  <strong>Nivel de ingles:</strong>
+                  <strong>Nivel de ingles: (En estudio)</strong>
                   {showRatingComponent && (
                     <Rating
                       readOnly
-                      value={4}
+                      value={3}
                       stars={5}
                       cancel={false}
                       className={classes.english}
@@ -152,30 +164,24 @@ export const AboutPage: FC = () => {
         </Col>
         <Col lg={12} xl={6}>
           <Row>
-            <Col md={6}>
-              <h2 className={`${classes.subtitle} mt-3 mb-3`}>Lenguajes</h2>
-              <ListGroup className={classes.skills}>
+            <Col md={5}>
+              <h2 className={`${classes.subtitle} mt-4 mb-3`}>Skills</h2>
+              <ListGroup
+                className={classes.skills}
+                style={{ borderRight: '4px solid #d59938', borderRadius: '0' }}>
                 {skills.map((skill) => (
                   <ListGroup.Item key={skill.label} className={classes.item}>
-                    <strong>{skill.label}</strong>
-                    <ProgressBar
-                      className={classes.progress}
-                      now={skill.progress}
-                    />
+                    <strong className={classes.label}> - {skill.label}</strong>
                   </ListGroup.Item>
                 ))}
               </ListGroup>
             </Col>
-            <Col md={6}>
-              <h2 className={`${classes.subtitle} mt-3 mb-3`}>Librerias</h2>
+            <Col md={7} className='ps-5'>
+              <h2 className={`${classes.subtitle} mt-4 mb-3`}>Conocimientos</h2>
               <ListGroup className={classes.skills}>
                 {knowledges.map((skill) => (
                   <ListGroup.Item key={skill.label} className={classes.item}>
-                    <strong>{skill.label}</strong>
-                    <ProgressBar
-                      className={classes.progress}
-                      now={skill.progress}
-                    />
+                    <strong className={classes.label}>- {skill.label}</strong>
                   </ListGroup.Item>
                 ))}
               </ListGroup>
