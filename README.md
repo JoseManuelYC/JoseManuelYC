@@ -1,10 +1,3 @@
-[![GitHub contributors](https://img.shields.io/github/contributors/josejmv/josejmv)](https://github.com/josejmv/josejmv/graphs/contributors)
-[![forks](https://img.shields.io/github/forks/josejmv/josejmv)](https://github.com/josejmv/josejmv/fork)
-![stars](https://img.shields.io/github/stars/josejmv/josejmv)
-[![License](https://img.shields.io/github/license/josejmv/josejmv)](LICENSE)
-![followers](https://img.shields.io/github/followers/josejmv.svg?style=social&label=JoseJMV&maxAge=2592000)
-![Tested Next.js versions](https://img.shields.io/badge/tested%20next.js%20versions-12.x-blue)
-
 # My portfolio
 
 Open [portfoolio](https://josejmv.vercel.app) with your browser to see the
