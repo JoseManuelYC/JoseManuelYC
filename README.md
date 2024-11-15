@@ -103,7 +103,7 @@ example page.
       </td>
       <td width="20%" align="center">
         <span>React Router</span><br><br>
-        <img height="64px" src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/a109a4b0-0850-4353-bb1d-2d62ee8eaf83" alt="react-router-logo">
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:1400/1*XblBNRQcqcwjY4751onfCg.png" alt="react-router-logo">
       </td>
     </tr>
   </tbody>
