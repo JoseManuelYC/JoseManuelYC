@@ -41,7 +41,7 @@ export const rrss = [
 export const info = [
   {
     title: `+ ${dayjs().tz(timezoneCode).diff(startWorkDate, 'year')}`,
-    description: 'Año de experiencia',
+    description: 'Años de experiencia',
     Icon: ClockHistory
   },
   { title: 'Junior', description: 'Desarrollador web', Icon: Tools },
