@@ -29,6 +29,7 @@ import classes from './styles.module.scss'
 
 // types
 import { FC } from 'react'
+import { Image } from 'primereact/image'
 
 type SidebarProps = {
   handleShowSidebar?: () => void
@@ -55,7 +56,9 @@ export const Sidebar: FC<SidebarProps> = ({ handleShowSidebar }) => {
 
   return (
     <aside className={classes.aside}>
-      <h2 className={classes.title}>Portafolio</h2>
+      <h2 className={classes.title}>
+        <Image width='150' height='150' alt='JY' src='/assets/logos/JY.png' />
+      </h2>
       <Divider layout='horizontal' className={classes.divider} />
 
       <Container>

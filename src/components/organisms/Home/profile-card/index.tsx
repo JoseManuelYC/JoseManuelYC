@@ -41,8 +41,8 @@ export const ProfileCard: FC = () => {
         <DivMotion {...animations.iconsAnimation}>
           <div className={classes.avatar}>
             <Image
-              width={150}
-              height={150}
+              width={200}
+              height={200}
               alt='profile'
               src='/assets/pics/profile.jpg'
             />

@@ -16,7 +16,7 @@ import {
 import NestJs from '@publics/assets/logos/nestjs.svg'
 
 const timezoneCode = 'America/Caracas'
-const startWorkDate = dayjs('11/01/2023').tz(timezoneCode)
+const startWorkDate = dayjs('11/01/2022').tz(timezoneCode)
 
 export const animations = {
   iconsAnimation: {

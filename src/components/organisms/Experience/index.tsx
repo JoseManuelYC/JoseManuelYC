@@ -1,8 +1,5 @@
 // components
-import { SeoContenidosExperience } from './slides/seo-contenidos'
-import { TradesExperience } from './slides/trades-org'
 import { CentriaExperience } from './slides/centria'
-import { PlatziExperience } from './slides/platzi'
 
 // bootstrap components
 import { Container, Carousel } from 'react-bootstrap'
@@ -12,6 +9,8 @@ import classes from 'styles/pages/experience/styles.module.scss'
 
 // types
 import { FC } from 'react'
+import { NftExperience } from './slides/nft'
+import { MenuExperience } from './slides/menu'
 
 export const Experience: FC = () => {
   return (
@@ -21,16 +20,13 @@ export const Experience: FC = () => {
 
         <Carousel wrap={false} interval={null} className={classes.carousel}>
           <Carousel.Item>
-            <PlatziExperience />
-          </Carousel.Item>
-          <Carousel.Item>
-            <SeoContenidosExperience />
-          </Carousel.Item>
-          <Carousel.Item>
             <CentriaExperience />
           </Carousel.Item>
           <Carousel.Item>
-            <TradesExperience />
+            <NftExperience />
+          </Carousel.Item>
+          <Carousel.Item>
+            <MenuExperience />
           </Carousel.Item>
         </Carousel>
       </Container>

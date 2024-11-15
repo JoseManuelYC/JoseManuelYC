@@ -1,15 +1,17 @@
 @import '/src/styles/ui/texts/styles.module.scss';
 @import '/src/styles/variables.scss';
 
-.seocontenidos {
+.menu {
   padding: 1rem 0;
+  margin-inline: 5px;
+  object-fit: cover;
   .subtitle {
     color: $white;
     text-align: center;
     margin-bottom: 2rem;
   }
   .small {
-    width: 5%;
+    width: 10%;
     color: $white;
     font-weight: bold;
     margin-bottom: 1rem;
@@ -17,8 +19,12 @@
     border-bottom: 2px solid $light-primary;
   }
 
-  .pic {
-    margin: 0 1.5rem;
-    object-fit: cover;
+  .redleaf {
+    object-fit: contain;
+    filter: saturate(2) brightness(1) contrast(5)
+      drop-shadow(0 0 5px rgba($white, 0.4));
+  }
+  .centria {
+    filter: brightness(1) drop-shadow(0 0 5px rgba($black, 0.5));
   }
 }

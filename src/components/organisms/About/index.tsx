@@ -1,12 +1,8 @@
 // main tools
-import { useState, useEffect } from 'react'
 import dayjs from 'dayjs'
 
 // bootstrap components
-import { Container, Row, Col, ListGroup } from 'react-bootstrap'
-
-// prime components
-import { Rating } from 'primereact/rating'
+import { Container, Row, Col, ListGroup, Button } from 'react-bootstrap'
 
 // hooks
 import { useApp } from 'hooks/use-app'
@@ -16,11 +12,18 @@ import classes from 'styles/pages/about/styles.module.scss'
 
 // types
 import { FC } from 'react'
+import { Download } from 'react-bootstrap-icons'
 
 export const AboutPage: FC = () => {
   const { toast } = useApp()
   const birthdate = dayjs('05/07/1999')
-  const [showRatingComponent, setShowRatingComponent] = useState(false)
+
+  const handleDownloadFile = () =>
+    toast()?.show({
+      summary: 'Éxito!',
+      severity: 'success',
+      detail: 'Árchivo descargado con éxito'
+    })
 
   const skills = [
     { label: 'Nest Js' },
@@ -33,10 +36,10 @@ export const AboutPage: FC = () => {
   ]
 
   const knowledges = [
+    { label: 'PostgreSQL' },
+    { label: 'MongoDB' },
     { label: 'Firebase' },
     { label: 'Cloudinary' },
-    { label: 'MongoDB' },
-    { label: 'PostgreSQL' },
     { label: 'Next.js' },
     { label: 'Material UI' }
   ]
@@ -62,11 +65,6 @@ export const AboutPage: FC = () => {
         })
       )
   }
-
-  /**
-   * handle show
-   */
-  useEffect(() => setShowRatingComponent(true), [])
 
   return (
     <Container className={classes.about}>
@@ -103,7 +101,7 @@ export const AboutPage: FC = () => {
         Actualmente cuento con experiencia como desarrollador web Backend-end
         con herramientas como Nest Js, GraphQL, Docker, Postgress, TypeORM, Jest
         JS (Unit test) y he participado en algunos proyectos pequeños como
-        front-end trabajando con herramientas como Next.js y React.js
+        front-end trabajando con herramientas como Next.js y Vite JS
         principalmente, ademas cuento con una amplia gama de conocimientos en
         herramientas que me permiten desarrollar proyectos de alta calidad con
         muy buenos niveles de seguridad y calidad
@@ -147,16 +145,14 @@ export const AboutPage: FC = () => {
                   <strong>Cargo:</strong> <p>Desarrollador Back-end</p>
                 </ListGroup.Item>
                 <ListGroup.Item className={classes.item}>
-                  <strong>Nivel de ingles: (En estudio)</strong>
-                  {showRatingComponent && (
-                    <Rating
-                      readOnly
-                      value={3}
-                      stars={5}
-                      cancel={false}
-                      className={classes.english}
-                    />
-                  )}
+                  <strong>Nivel de ingles: B2 (En estudio)</strong>
+                  <a download href='/assets/certificates/efsetjmyc.pdf'>
+                    <Button
+                      className={`${classes.button} mt-2`}
+                      onClick={handleDownloadFile}>
+                      <Download className='me-2' size={16} /> Certificado EFSET
+                    </Button>
+                  </a>
                 </ListGroup.Item>
               </ListGroup>
             </Col>
@@ -168,7 +164,7 @@ export const AboutPage: FC = () => {
               <h2 className={`${classes.subtitle} mt-4 mb-3`}>Skills</h2>
               <ListGroup
                 className={classes.skills}
-                style={{ borderRight: '4px solid #d59938', borderRadius: '0' }}>
+                style={{ borderRight: '4px solid #002642', borderRadius: '0' }}>
                 {skills.map((skill) => (
                   <ListGroup.Item key={skill.label} className={classes.item}>
                     <strong className={classes.label}> - {skill.label}</strong>

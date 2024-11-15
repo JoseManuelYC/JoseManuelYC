@@ -1,6 +1,3 @@
-// main tools
-import Link from 'next/link'
-
 // components
 import { GenericCard } from '@molecules/card'
 
@@ -21,9 +18,7 @@ export const Projects: FC = () => (
     <Row>
       {personalProjects.map((project) => (
         <Col sm={6} lg={4} xl={3} key={project.name}>
-          <Link target='_blank' passHref href={project.url}>
-            <GenericCard {...project} />
-          </Link>
+          <GenericCard {...project} />
         </Col>
       ))}
     </Row>

@@ -1,32 +1,25 @@
 {
-    "scope": "/",
-    "start_url": "/",
-    "name": "JoseJMV",
-    "display": "standalone",
-    "short_name": "JoseJMV",
-    "theme_color": "#d59938",
-    "background_color": "#23221f",
-    "description": "JoseJMV portfolio",
-    "icons": [
-        {
-            "src": "/assets/logos/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/assets/logos/icon-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png"
-        },
-        {
-            "src": "/assets/logos/icon-384x384.png",
-            "sizes": "384x384",
-            "type": "image/png"
-        },
-        {
-            "src": "/assets/logos/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "scope": "/",
+  "start_url": "/",
+  "name": "JoseYanez",
+  "display": "standalone",
+  "short_name": "JoseYanez",
+  "theme_color": "#d59938",
+  "background_color": "#23221f",
+  "description": "JoseYanez portfolio",
+  "lang": "es-US",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "/assets/logos/icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "/assets/logos/icon512_rounded.png",
+      "type": "image/png"
+    }
+  ]
 }
