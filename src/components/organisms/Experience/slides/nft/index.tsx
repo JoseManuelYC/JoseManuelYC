@@ -9,8 +9,8 @@ import { FC } from 'react'
 
 export const NftExperience: FC = () => {
   const pics = [
-    '/assets/pics/nft/trippyworld1.png',
-    '/assets/pics/nft/trippyworld2.png'
+    '/assets/pics/nft/trippy-world1.png',
+    '/assets/pics/nft/trippy-world2.png'
   ]
   return (
     <article className={classes.nft}>
