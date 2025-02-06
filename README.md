@@ -7,8 +7,7 @@
 
 # My portfolio
 
-Open [portfolio](https://josemanuelyc.vercel.app) with your browser to see the
-example page.
+Open [portfolio](https://josemanuelyc.vercel.app) with your browser to see my portfolio.
 
 <hr>
 
