@@ -120,7 +120,7 @@ You can find and get touch with me on these accounts! <br> <br>
 </p>
 
 <p align="center">  
-<img src="https://github.com/JoseManuelYC/JoseManuelYC/assets/125777192/f61c53b1-1fe5-491c-9822-e99b43669535">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 # License
