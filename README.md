@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm Jose Yanez, I'm a great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a great back-end developer🏁. I'm currently working as a Backend Developer using NestJS, GraphQL, Docker, AWS, TypeORM and testing with Jest.</p>
+<p>I'm Jose Yanez, I'm a great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a great back-end developer. I'm currently working as a Backend Developer using NestJS, GraphQL, Docker, AWS, TypeORM and testing with Jest.</p>
 
 ### My portfolio
 
