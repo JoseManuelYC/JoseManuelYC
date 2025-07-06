@@ -10,8 +10,9 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 
 ### What I'm up to 🎯
 - 💼 Currently working with **NestJS**, **GraphQL**, **Docker**, and **AWS**
-- 🌱 Always exploring new backend technologies
-- 🎓 Constantly learning and sharing knowledge
+- 🤖 Exploring AI development with **LangChain** and **Botpress**
+- 🌱 Always learning new backend technologies
+- 🎓 Sharing knowledge and building solutions
 - 🎮 Gaming enthusiast in my free time
 
 <div align="center">
@@ -26,6 +27,7 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 
 ### Backend & Databases
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,6 +44,10 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### AI & ML
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Botpress](https://img.shields.io/badge/Botpress-FF4F64?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
