@@ -25,98 +25,81 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 
 <div align="center">
 
-<!-- Backend Development -->
-<details open>
-<summary><b>🔹 Backend Development</b></summary>
-<br>
 <div align="center">
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=Backend+Development;Databases+%26+Cloud;AI+%26+Automation;Frontend+%26+Testing" alt="Tech Categories" />
+</div>
+
+<br>
+
+<kbd align="center">
+<kbd>Backend Development</kbd>
+<br>
+<br>
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+</kbd>
 
-</div>
-</div>
-</details>
-
-<!-- Databases -->
-<details open>
-<summary><b>🗄️ Databases</b></summary>
 <br>
-<div align="center">
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+<br>
+
+<kbd align="center">
+<kbd>Databases & Cloud</kbd>
+<br>
+<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-</div>
-</details>
-
-<!-- Cloud & DevOps -->
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-<div align="center">
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</kbd>
 
-</div>
-</div>
-</details>
-
-<!-- AI & Automation -->
-<details open>
-<summary><b>🤖 AI & Automation</b></summary>
 <br>
-<div align="center">
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+<br>
+
+<kbd align="center">
+<kbd>AI & Automation</kbd>
+<br>
+<br>
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Botpress](https://img.shields.io/badge/Botpress-FF4F64?style=for-the-badge&logo=robotframework&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-41B883?style=for-the-badge&logo=n8n&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</kbd>
 
-</div>
-</div>
-</details>
-
-<!-- Frontend -->
-<details>
-<summary><b>🎨 Frontend</b></summary>
 <br>
-<div align="center">
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+<br>
+
+<kbd align="center">
+<kbd>Frontend Development</kbd>
+<br>
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+</kbd>
 
-</div>
-</div>
-</details>
-
-<!-- Testing -->
-<details>
-<summary><b>🧪 Testing</b></summary>
 <br>
-<div align="center">
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+<br>
+
+<kbd align="center">
+<kbd>Testing</kbd>
+<br>
+<br>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+</kbd>
 
 </div>
-</div>
-</details>
 
 </div>
 
