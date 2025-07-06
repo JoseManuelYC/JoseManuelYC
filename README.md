@@ -1,125 +1,75 @@
-### Hi there 👋
+# José Yánez | Backend Developer 👨‍💻
 
-<p>I'm Jose Yanez, I'm a great passionate about technology and programming, a lover of soccer, good music and video games. Always eager to learn and continue to evolve. I keep studying to be a great back-end developer 🏁. I'm currently working as a Backend Developer using NestJS, GraphQL, Docker, AWS, TypeORM and testing with Jest.</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=Backend+Developer;NestJS+%7C+GraphQL+%7C+AWS;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
 
-### My portfolio
+## About Me 🚀
 
-Open [portfolio](https://josemanuelyc.vercel.app) with your browser to see my portfolio.
+Hey there! I'm José, a passionate Backend Developer with a love for clean code and scalable solutions. When I'm not coding, you'll find me enjoying soccer ⚽, discovering new music 🎵, or diving into video games 🎮. I'm on a continuous journey of learning and growth in the tech world.
 
-<hr>
+### What I'm up to 🎯
+- 💼 Currently working with **NestJS**, **GraphQL**, **Docker**, and **AWS**
+- 🌱 Always exploring new backend technologies
+- 🎓 Constantly learning and sharing knowledge
+- 🎮 Gaming enthusiast in my free time
 
-<p font-text="300" align="center">Tech Stack and Knowledge 🌐</p>
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josemanuelyc.vercel.app)
+  
+</div>
 
-<br>
+## Tech Stack 🛠️
 
-<table align="center">
-  <tbody align="center">
-    <tr valign="top">
-       <td width="20%" align="center">
-        <span>Nest JS</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="nestjs logo">
-      </td>
-      <td width="20%" align="center">
-        <span>TypeScript</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo">
-      </td>
-      <td width="20%" align="center">
-        <span>Docker</span><br><br>
-        <img height="64px" src="https://www.docker.com/wp-content/uploads/2023/08/logo-dont-stretch.svg" alt="docker logo">
-      </td>
-       <td width="20%" align="center">
-        <span>GraphQL</span><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SmNjy_sTZ_K5wLojJ65x7wlRoBlmi4L68dA_vqeU8w&s" alt="grahQL logo">
-      </td>
-       <td width="20%" align="center">
-        <span>NodeJS</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs logo">
-      </td>
-      </tr>
-     <tr valign="top">
-      <td width="20%" align="center">
-        <span>Jest JS</span><br><br>
-        <img height="64px" src="https://avatars.githubusercontent.com/u/103283236?s=48&v=4" alt="jestjs logo">
-      </td>
-       <td width="20%" align="center">
-        <span>PostgreSQL</span><br><br>
-        <img height="64px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" alt="Postgres logo">
-      </td>
-        <td width="20%" align="center">
-        <span>MongoDB</span><br><br>
-        <img height="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb logo">
-      </td>
-      <td width="20%" align="center">
-        <span>FireBase</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase logo">
-      </td>
-        <td width="20%" align="center">
-       <span>𝗚𝗶𝘁</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-     </tr>
-      <tr valign="top">
-      <td width="20%" align="center">
-      <span>React Redux</span><br><br>
-        <img height="64px" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="vscode logo">
-      </td>
-         <td width="20%" align="center">
-        <span>MaterialUI</span><br><br>
-        <img height="64px" src="https://avatars.githubusercontent.com/u/33663932?s=48&v=4" alt="material-ui logo">
-      </td>
-      <td width="20%" align="center">
-      <span>Bootstrap</span><br><br>
-        <img height="64px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap logo">
-      </td>
-         <td width="20%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-        <td width="20%" align="center">
-        <span>Testing Library</span><br><br>
-        <img height="64px" src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library logo">
-      </td>
-     </tr>
-    <tr valign="top"> 
-       <td width="20%" align="center">
-        <span>Next JS</span><br><br>
-        <img height="64px" src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" alt="nextjs logo">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-        <td width="20%" align="center">
-        <span>React JS</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo">
-      </td>
-      <td width="20%" align="center">
-        <span>React Router</span><br><br>
-        <img height="64px" src="https://miro.medium.com/v2/resize:fit:1400/1*XblBNRQcqcwjY4751onfCg.png" alt="react-router-logo">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
+<div align="center">
 
-### Other Accounts 📫
+### Backend & Databases
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-You can find and get touch with me on these accounts! <br> <br>
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-<a target="_blank" href="mailto:joseyanezcontact@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"></a>
-<a target="_blank" href="https://www.linkedin.com/in/joseyanez07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"></a>
-<a target="_blank" href="https://www.instagram.com/_joseyanez/?hl=es"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo"></a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-<p align="center">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</p>
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-# License
+</div>
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" />
+</div>
+
+## Let's Connect! 🤝
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseyanezcontact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseyanez07/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_joseyanez/?hl=es)
+
+</div>
+
+---
+<div align="center">
+  <sub>⚡ Happy coding! ⚡</sub>
+</div>
+
+## License
 
 MIT [licensed](LICENSE).
