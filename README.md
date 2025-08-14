@@ -13,7 +13,6 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 - 🤖 Exploring AI development with **LangChain** and **Botpress**
 - 🌱 Always learning new backend technologies
 - 🎓 Sharing knowledge and building solutions
-- 🎮 Gaming enthusiast in my free time
 
 <div align="center">
   
