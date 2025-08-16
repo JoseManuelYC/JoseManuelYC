@@ -108,7 +108,7 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" />
 </div>
 
-## Let's Connect! 🤝
+## Let's Connect 🤝
 
 <div align="center">
   
