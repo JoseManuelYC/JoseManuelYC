@@ -1,4 +1,4 @@
-# José Yañez | Backend Developer 👨‍💻
+# José Yañez | Backend Developer👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=Backend+Developer;NestJS+%7C+GraphQL+%7C+AWS;Always+learning+new+technologies" alt="Typing SVG" />
