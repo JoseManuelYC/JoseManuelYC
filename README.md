@@ -11,7 +11,7 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 ### What I'm up to 🎯
 - 💼 Currently working with **NestJS**, **GraphQL**, **Docker**, **AWS**, **JestJs**, and **LangChain**
 - 🤖 Exploring AI development with **LangChain**, **Botpress**, **N8N**
-- 🌱 Always learning new backend technologies
+- 🌱 Always learning new backend technologies 
 - 🎓 Sharing knowledge and building solutions 
 
 ### Portfolio 💼
