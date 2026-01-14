@@ -93,30 +93,30 @@ const jose = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=JoseManuelYC&theme=radical&hide_border=true" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+<img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=github-readme-stats" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYC&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 📈 Activity Overview
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoseManuelYC&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
