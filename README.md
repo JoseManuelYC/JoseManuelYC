@@ -15,33 +15,50 @@
 $ whoami && cat about.json
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF41&background=000000&center=false&vCenter=false&multiline=true&width=600&height=120&lines={; "name": "José Yañez",; "role": "Backend Developer",; "focus": ["Server Apps", "AI Integration"],; "status": "Always Learning! 🚀";}"/>
+```json
+{
+  "name": "José Yañez",
+  "role": "Backend Developer",
+  "focus": ["Server Apps", "AI Integration", "Cloud Computing"],
+  "hobbies": ["⚽ Soccer", "🎵 Music", "🎮 Gaming"],
+  "status": "Always Learning & Building Cool Stuff! 🚀"
+}
+```
 
 ```bash
-# 🎮 Interactive Terminal Game - Try clicking the commands!
-$ play-guessing-game
+$ current-projects --list
+📁 nestjs-graphql-api/     # Building modern web APIs
+📁 langchain-automation/   # AI-powered automation tools
+📁 aws-microservices/      # Scalable cloud applications
+📁 docker-containers/      # Containerized deployments
 ```
 
 <details>
-<summary>🎯 <b>Click here to play: Guess my favorite technology!</b></summary>
+<summary>🎯 <b>Click here: Guess my favorite technology!</b></summary>
 
 ```
 🎮 TECH GUESSING GAME 🎮
 
 I'm thinking of one of my favorite technologies...
-It starts with 'N' and ends with 'JS'
-It's a Node.js framework for building APIs
+• It starts with 'N' and ends with 'JS'
+• It's a Node.js framework for building APIs
+• It's inspired by Angular and uses decorators
+• Perfect for building scalable server applications
 
 🤔 Can you guess what it is?
-
-Hint: It's inspired by Angular and uses decorators!
 
 ┌─────────────────────────────────────┐
 │  A) NextJS     B) NuxtJS           │
 │  C) NestJS     D) NodeJS           │
 └─────────────────────────────────────┘
 
-Answer: It's NestJS! 🎉
+🎉 Answer: It's **NestJS**!
+
+Why I love it:
+• 🛠️ Powerful decorators and dependency injection
+• 📚 Great TypeScript support out of the box
+• �️ Perfect for building enterprise-grade APIs
+• 🚀 Excellent GraphQL integration
 ```
 
 </details>
@@ -52,9 +69,9 @@ $ ls /tech-stack/ --interactive
 
 <div align="center">
 
-<!-- Animated tech stack with hover effects -->
+<!-- Simple tech stack with logos -->
 <a href="https://nestjs.com" target="_blank">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&animation=pulse" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
 </a>
 <a href="https://nodejs.org" target="_blank">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -108,33 +125,47 @@ $ ls /tech-stack/ --interactive
 $ git log --oneline --live
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&background=000000&center=false&vCenter=false&multiline=true&width=500&lines=✨ feat: GraphQL subscriptions;⚡ perf: optimized queries;🤖 feat: LangChain AI;📦 feat: Docker setup;🧪 test: 95%25 coverage" />
+```
+✨ feat: GraphQL subscriptions & JWT auth
+⚡ perf: optimized database queries & caching
+🤖 feat: LangChain AI integration
+📦 feat: Docker containerization
+🧪 test: achieved 95% test coverage
+🚀 feat: AWS cloud deployment
+🔐 security: implemented authentication
+```
 
 ```bash
-$ system-monitor --realtime
+$ ps aux | grep -E "(nestjs|docker|postgres|redis)"
+🚀 nestjs-server    ✅ Running  (Main API Server)
+🐳 docker-daemon    ✅ Running  (Container Manager)
+🗄️ postgres-db      ✅ Running  (Primary Database)
+🤖 langchain-ai     ✅ Running  (AI Processing)
+⚡ redis-cache      ✅ Running  (Fast Cache)
 ```
 
 <details>
-<summary>📊 <b>Click to see live system status</b></summary>
+<summary>📊 <b>Click to see development stats</b></summary>
 
 ```
-🖥️  SYSTEM DASHBOARD
+� DEVELOPER METRICS
 
-┌─ Services Status ────────────────────────┐
-│ 🚀 nestjs-server    ●●●●● ONLINE        │
-│ 🐳 docker-daemon    ●●●●● ONLINE        │
-│ 🗄️ postgres-db      ●●●●● ONLINE        │
-│ 🤖 langchain-ai     ●●●●● ONLINE        │
-│ ⚡ redis-cache      ●●●●● ONLINE        │
-└──────────────────────────────────────────┘
+┌─ 2024 Statistics ────────────────────────────┐
+│ 📈 Total Commits: 1,247                      │
+│ � Lines of Code: 12,847                     │
+│ � Active Projects: 42                       │
+│ 🎆 Pull Requests: 156                        │
+│ 🐛 Issues Resolved: 89                       │
+│ ☕ Coffee Consumed: ∞                          │
+└──────────────────────────────────────────────┘
 
-┌─ Performance Metrics ────────────────────┐
-│ 📈 Uptime: 99.9%                        │
-│ ⚡ Response Time: <100ms                 │
-│ 🔥 CPU Usage: ████░░░░░░ 40%            │
-│ 💾 Memory: ██████░░░░ 60%               │
-│ 🌐 API Calls Today: 1,247               │
-└──────────────────────────────────────────┘
+┌─ Current Focus ──────────────────────────────┐
+│ 🏗️ Backend APIs with NestJS & GraphQL        │
+│ 🤖 AI Integration using LangChain           │
+│ ☁️ Cloud Architecture on AWS                 │
+│ � Containerization with Docker             │
+│ 🧪 Test-Driven Development (95% coverage)   │
+└──────────────────────────────────────────────┘
 ```
 
 </details>
@@ -143,7 +174,23 @@ $ system-monitor --realtime
 $ fortune | cowsay --developer-edition
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=FFD700&background=000000&center=false&vCenter=false&multiline=true&width=400&lines= _________________;< Code never lies,;  people do! >;  -----------------;        \   ^__^;         \  (oo)\_______;            (__)\       )\/\;                ||----w |;                ||     ||" />
+```
+ ___________________
+< Code never lies,  >
+< people do!       >
+ -------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Always+Learning;Always+Coding;Always+Building" alt="Typing SVG" />
+
+</div>
 
 ```bash
 $ echo "Let's connect!"
