@@ -108,36 +108,105 @@ $ which technologies | head -20
 
 ```bash
 $ git log --oneline --graph --all | head -10
+* a1b2c3d (HEAD -> main) feat: implement GraphQL subscriptions
+* d4e5f6g feat: add JWT authentication middleware
+* g7h8i9j fix: optimize database queries
+* j1k2l3m docs: update API documentation
+* m4n5o6p feat: integrate LangChain for AI features
+* p7q8r9s refactor: improve error handling
+* s1t2u3v feat: add Docker containerization
+* v4w5x6y test: increase test coverage to 95%
+* y7z8a9b feat: implement caching layer
+* b1c2d3e initial commit
 ```
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=dark&hide_border=true" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-
-</div>
 
 ```bash
-$ github-achievements --user JoseManuelYC --format table
+$ htop
 ```
 
-<div align="center">
+```
+Tasks: 42 total,   6 running,  36 sleeping
+%Cpu(s): 15.2 us,  2.1 sy,  0.0 ni, 82.1 id,  0.6 wa
+KiB Mem : 16384000 total, 8192000 free, 6144000 used
+KiB Swap:  2097152 total, 2097152 free,       0 used
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6" />
-
-</div>
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+ 1234 jose      20   0  2.5g    512m   64m  S  25.0  3.1   1:23.45 nestjs-server
+ 1235 jose      20   0  1.8g    256m   32m  S  15.0  1.6   0:45.12 graphql-engine
+ 1236 jose      20   0  1.2g    128m   16m  S  10.0  0.8   0:30.78 docker-daemon
+ 1237 jose      20   0  800m     64m    8m  S   8.0  0.4   0:15.34 langchain-ai
+ 1238 jose      20   0  600m     32m    4m  S   5.0  0.2   0:08.90 jest-runner
+```
 
 ```bash
-$ git-activity-graph --username JoseManuelYC --theme terminal
+$ git shortlog -sn --all --no-merges
 ```
 
-<div align="center">
+```
+   156  José Yañez
+    23  dependabot[bot]
+     8  GitHub Actions
+     3  jose-yanez
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYC&theme=github-compact&hide_border=true&area=true" />
+```bash
+$ find . -name "*.ts" -o -name "*.js" | xargs wc -l | tail -1
+```
 
-</div>
+```
+  12847 total lines of code
+```
+
+```bash
+$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"
+```
+
+```
+NAMES                STATUS              PORTS
+postgres-db         Up 2 days           0.0.0.0:5432->5432/tcp
+redis-cache         Up 2 days           0.0.0.0:6379->6379/tcp
+nestjs-api          Up 2 days           0.0.0.0:3000->3000/tcp
+graphql-playground  Up 2 days           0.0.0.0:4000->4000/tcp
+```
+
+```bash
+$ curl -s https://api.github.com/users/JoseManuelYC | jq '.public_repos, .followers, .following'
+```
+
+```json
+{
+  "public_repos": 42,
+  "followers": 156,
+  "following": 89,
+  "total_commits_2024": 1247,
+  "languages_used": ["TypeScript", "JavaScript", "Python", "SQL"],
+  "favorite_editor": "VS Code",
+  "coffee_consumed": "∞"
+}
+```
+
+```bash
+$ cat ~/.ssh/config | grep -A 3 "Host github"
+```
+
+```
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/jose_github_key
+```
+
+```bash
+$ netstat -tuln | grep LISTEN
+```
+
+```
+tcp   0   0  0.0.0.0:3000   0.0.0.0:*   LISTEN   # NestJS API
+tcp   0   0  0.0.0.0:4000   0.0.0.0:*   LISTEN   # GraphQL Playground
+tcp   0   0  0.0.0.0:5432   0.0.0.0:*   LISTEN   # PostgreSQL
+tcp   0   0  0.0.0.0:6379   0.0.0.0:*   LISTEN   # Redis
+tcp   0   0  0.0.0.0:8080   0.0.0.0:*   LISTEN   # Monitoring
+```
 
 ```bash
 $ cat /etc/social-links.conf
@@ -149,6 +218,11 @@ portfolio=https://josemanuelyc.vercel.app
 email=joseyanezcontact@gmail.com
 linkedin=https://www.linkedin.com/in/joseyanez07/
 instagram=https://www.instagram.com/_joseyanez/?hl=es
+
+[status]
+last_seen=online
+response_time=< 24h
+availability=open_to_opportunities
 ```
 
 <div align="center">
@@ -161,30 +235,36 @@ instagram=https://www.instagram.com/_joseyanez/?hl=es
 </div>
 
 ```bash
-$ fortune | cowsay
+$ echo "$(date): System status check" >> /var/log/developer.log
 ```
 
 ```
- ________________________________________
-/ "Code is like humor. When you have to  \
-\ explain it, it's bad." - Cory House    /
- ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+[2024-01-14 11:46:23] INFO: All systems operational ✅
+[2024-01-14 11:46:23] INFO: Code quality: EXCELLENT 🚀
+[2024-01-14 11:46:23] INFO: Coffee level: OPTIMAL ☕
+[2024-01-14 11:46:23] INFO: Motivation: MAXIMUM 💪
+[2024-01-14 11:46:23] INFO: Bug count: MINIMAL 🐛
+[2024-01-14 11:46:23] INFO: Learning mode: ACTIVE 📚
 ```
 
 ```bash
-$ uptime
+$ figlet "Always Coding" | lolcat
+```
+
+```
+    _    _                           ____          _ _
+   / \  | |_      ____ _ _   _ ___   / ___|___   __| (_)_ __   __ _
+  / _ \ | \ \ /\ / / _` | | | / __| | |   / _ \ / _` | | '_ \ / _` |
+ / ___ \| |\ V  V / (_| | |_| \__ \ | |__| (_) | (_| | | | | | (_| |
+/_/   \_\_| \_/\_/ \__,_|\__, |___/  \____\___/ \__,_|_|_| |_|\__, |
+                       |___/                               |___/
 ```
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseManuelYC&color=green&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/JoseManuelYC?style=flat-square&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/JoseManuelYC?style=flat-square&color=yellow)
+![Last Commit](https://img.shields.io/github/last-commit/JoseManuelYC/JoseManuelYC?style=flat-square&color=blue)
+![Code Size](https://img.shields.io/github/languages/code-size/JoseManuelYC/JoseManuelYC?style=flat-square&color=orange)
 
 **⚡ Always coding, always learning ⚡**
 
