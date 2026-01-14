@@ -1,129 +1,160 @@
-# José Yañez | Backend Developer👨‍💻
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=Backend+Developer;NestJS+%7C+GraphQL+%7C+AWS;Always+learning+new+technologies" alt="Typing SVG" />
+
+# 👋 ¡Hola! Soy José Yañez
+
+### 🚀 Backend Developer & AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer+%F0%9F%92%BB;NestJS+%7C+GraphQL+%7C+AWS+%E2%98%81%EF%B8%8F;AI+%26+Automation+Lover+%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
-## About Me 🚀
+## 🎯 Sobre Mí
 
-Hey there! I'm José, a passionate Backend Developer with a love for clean code and scalable solutions. When I'm not coding, you'll find me enjoying soccer ⚽, discovering new music 🎵, or diving into video games 🎮. I'm on a continuous journey of learning and growth in the tech world. 
-
-### What I'm up to 🎯
-- 💼 Currently working with **NestJS**, **GraphQL**, **Docker**, **AWS**, **JestJs**, and **LangChain**
-- 🤖 Exploring AI development with **LangChain**, **Botpress**, **N8N**
-- 🌱 Always learning new backend technologies 
-- 🎓 Sharing knowledge and building solutions
-
-### Portfolio 💼
-
-<div align="center">  
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josemanuelyc.vercel.app)
-</div>
-
-## Tech Stack 🛠️
+```typescript
+const jose = {
+  location: "🌎 Somewhere coding...",
+  currentFocus: ["Backend Development", "AI Integration", "Cloud Architecture"],
+  hobbies: ["⚽ Soccer", "🎵 Music", "� Gaming", "📚 Learning"],
+  funFact: "I debug with console.log and I'm not ashamed! 😄",
+};
+```
 
 <div align="center">
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=Backend+Development;Databases+%26+Cloud;AI+%26+Automation;Frontend+%26+Testing" alt="Tech Categories" />
-</div>
+### 🔥 Lo que estoy haciendo ahora
 
-<br>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<kbd align="center">
-<kbd>Backend Development</kbd>
-<br>
-<br>
+**💼 Trabajando con**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-</kbd>
+- 🏗️ **NestJS** & **GraphQL**
+- ☁️ **AWS** & **Docker**
+- 🧪 **Jest** para testing
+- 🔗 **LangChain** para AI
 
-<br>
-<br>
+</td>
+<td align="center" width="50%">
 
-<kbd align="center">
-<kbd>Databases & Cloud</kbd>
-<br>
-<br>
+**🌱 Explorando**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</kbd>
+- 🤖 **Botpress** & **N8N**
+- 🚀 Nuevas tecnologías backend
+- 📊 Arquitecturas escalables
+- � Mejores prácticas
 
-<br>
-<br>
-
-<kbd align="center">
-<kbd>AI & Automation</kbd>
-<br>
-<br>
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Botpress](https://img.shields.io/badge/Botpress-FF4F64?style=for-the-badge&logo=robotframework&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-41B883?style=for-the-badge&logo=n8n&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-</kbd>
-
-<br>
-<br>
-
-<kbd align="center">
-<kbd>Frontend Development</kbd>
-<br>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-</kbd>
-
-<br>
-<br>
-
-<kbd align="center">
-<kbd>Testing</kbd>
-<br>
-<br>
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-</kbd>
-
-</div>
-
-</div>
-
-## GitHub Stats 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact" alt="Most Used Languages" />
-</div>
-
-## Let's Connect 🤝
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseyanezcontact@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseyanez07/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_joseyanez/?hl=es)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
+## 🛠️ Arsenal Tecnológico
+
 <div align="center">
-  <sub>⚡ Happy coding! ⚡</sub>
+
+### 🎨 Backend & Core
+
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,typescript,graphql&theme=dark" />
+</p>
+
+### �️ Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,aws,docker,git&theme=dark" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white">
+<img src="https://img.shields.io/badge/Botpress-FF4F64?style=for-the-badge&logo=robotframework&logoColor=white">
+<img src="https://img.shields.io/badge/N8N-41B883?style=for-the-badge&logo=n8n&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
+
+### 🎨 Frontend & Testing
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,jest&theme=dark" />
+</p>
+
 </div>
 
-## License
+---
 
-MIT [licensed](LICENSE).
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYC&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🌐 Conectemos
+
+<div align="center">
+
+<a href="https://josemanuelyc.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:joseyanezcontact@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/joseyanez07/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_joseyanez/?hl=es" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**⚡ "Code is like humor. When you have to explain it, it's bad." ⚡**
+
+<img src="https://komarev.com/ghpvc/?username=JoseManuelYC&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+</div>
