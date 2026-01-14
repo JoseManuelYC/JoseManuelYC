@@ -16,75 +16,84 @@
 ```
 
 ```bash
+# Who am I? Let me show you!
 $ whoami
 jose-yanez
 
-$ cat /dev/about-me
+# Here's my personal info (like a digital business card)
+$ show-my-info
 ```
 
 ```json
 {
   "name": "José Yañez",
-  "role": "Backend Developer",
+  "job": "Backend Developer (I build the behind-the-scenes magic of websites)",
   "location": "🌎 Somewhere coding...",
-  "status": "Always Learning",
-  "currentFocus": [
-    "Backend Development",
-    "AI Integration",
-    "Cloud Architecture"
+  "status": "Always Learning New Things",
+  "what_i_focus_on": [
+    "Building server applications",
+    "Making websites smarter with AI",
+    "Cloud computing (storing data in the internet)"
   ],
   "hobbies": ["⚽ Soccer", "🎵 Music", "🎮 Gaming", "📚 Learning"],
-  "funFact": "I debug with console.log and I'm not ashamed! 😄"
+  "fun_fact": "I debug with console.log and I'm not ashamed! 😄"
 }
 ```
 
 ```bash
-$ ls -la /current-projects/
-drwxr-xr-x  2 jose  staff   64 Jan 14 11:42 nestjs-graphql-api/
-drwxr-xr-x  2 jose  staff   64 Jan 14 11:42 langchain-automation/
-drwxr-xr-x  2 jose  staff   64 Jan 14 11:42 aws-microservices/
-drwxr-xr-x  2 jose  staff   64 Jan 14 11:42 docker-containers/
+# What projects am I working on right now?
+$ show-current-projects
+📁 nestjs-graphql-api/     # Building a modern web API
+📁 langchain-automation/   # Creating AI-powered tools
+📁 aws-microservices/      # Cloud-based applications
+📁 docker-containers/      # Packaging apps for easy deployment
 
-$ ps aux | grep learning
-jose    1234  0.1  0.2  NestJS & GraphQL
-jose    1235  0.1  0.2  AWS & Docker
-jose    1236  0.1  0.2  Jest Testing
-jose    1237  0.1  0.2  LangChain AI
-jose    1238  0.1  0.2  Botpress & N8N
-jose    1239  0.1  0.2  Cloud Architecture
+# What am I currently learning and practicing?
+$ what-am-i-studying
+🔄 NestJS & GraphQL        # Modern web frameworks
+🔄 AWS & Docker           # Cloud and containerization
+🔄 Jest Testing           # Making sure my code works
+🔄 LangChain AI           # Artificial Intelligence tools
+🔄 Botpress & N8N         # Automation and chatbots
+🔄 Cloud Architecture     # Designing scalable systems
 ```
 
 ```bash
-$ cat /etc/tech-stack.conf
+# My toolbox - the technologies I use to build cool stuff
+$ show-my-skills
 ```
 
 ```ini
-[backend]
-nestjs=^10.0.0
-nodejs=^20.0.0
-express=^4.18.0
-typescript=^5.0.0
-graphql=^16.0.0
+# 🏗️ Backend (Server-side development - the engine behind websites)
+[backend_tools]
+nestjs=Building robust APIs
+nodejs=JavaScript for servers
+express=Simple web framework
+typescript=JavaScript with superpowers
+graphql=Smart way to fetch data
 
-[databases_cloud]
-postgresql=^15.0
-mongodb=^7.0
-aws=latest
-docker=^24.0
-git=^2.40
+# 🗄️ Databases & Cloud (Where I store and manage data)
+[data_and_cloud]
+postgresql=Reliable database
+mongodb=Flexible document storage
+aws=Amazon's cloud services
+docker=Package apps in containers
+git=Version control (like save points in games)
 
-[ai_automation]
-langchain=^0.1.0
-botpress=^12.0
-n8n=^1.0
-postman=^10.0
+# 🤖 AI & Automation (Making computers smarter)
+[ai_tools]
+langchain=AI integration framework
+botpress=Building chatbots
+n8n=Workflow automation
+postman=API testing tool
 
-[frontend_testing]
-react=^18.0
-nextjs=^14.0
-redux=^4.2
-materialui=^5.0
-jest=^29.0
+# 🎨 Frontend & Testing (What users see and making sure it works)
+[frontend_tools]
+react=Building user interfaces
+nextjs=Full-stack React framework
+redux=State management
+materialui=Beautiful components
+jest=Testing framework
 ```
 
 ```bash
@@ -107,105 +116,124 @@ $ which technologies | head -20
 </div>
 
 ```bash
-$ git log --oneline --graph --all | head -10
-* a1b2c3d (HEAD -> main) feat: implement GraphQL subscriptions
-* d4e5f6g feat: add JWT authentication middleware
-* g7h8i9j fix: optimize database queries
-* j1k2l3m docs: update API documentation
-* m4n5o6p feat: integrate LangChain for AI features
-* p7q8r9s refactor: improve error handling
-* s1t2u3v feat: add Docker containerization
-* v4w5x6y test: increase test coverage to 95%
-* y7z8a9b feat: implement caching layer
-* b1c2d3e initial commit
+# My recent work - like a timeline of what I've been building
+$ show-recent-work
+✨ Latest: Added real-time data updates (GraphQL subscriptions)
+🔐 Security: Implemented user authentication system
+⚡ Performance: Made database queries faster
+📚 Documentation: Updated API guides for other developers
+🤖 AI Features: Integrated smart AI capabilities
+🛠️ Reliability: Improved error handling
+📦 Deployment: Added containerization for easy deployment
+🧪 Quality: Increased test coverage to 95%
+💾 Speed: Added caching for better performance
+🎉 Beginning: Started this awesome project
 ```
 
 ```bash
-$ htop
+# What's currently running on my development machine
+$ show-running-services
 ```
 
 ```
-Tasks: 42 total,   6 running,  36 sleeping
-%Cpu(s): 15.2 us,  2.1 sy,  0.0 ni, 82.1 id,  0.6 wa
-KiB Mem : 16384000 total, 8192000 free, 6144000 used
-KiB Swap:  2097152 total, 2097152 free,       0 used
+🖥️  System Status: All systems running smoothly!
+💻 CPU Usage: 15% (plenty of power left)
+🧠 Memory: 8GB free out of 16GB (lots of room)
 
-  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
- 1234 jose      20   0  2.5g    512m   64m  S  25.0  3.1   1:23.45 nestjs-server
- 1235 jose      20   0  1.8g    256m   32m  S  15.0  1.6   0:45.12 graphql-engine
- 1236 jose      20   0  1.2g    128m   16m  S  10.0  0.8   0:30.78 docker-daemon
- 1237 jose      20   0  800m     64m    8m  S   8.0  0.4   0:15.34 langchain-ai
- 1238 jose      20   0  600m     32m    4m  S   5.0  0.2   0:08.90 jest-runner
-```
-
-```bash
-$ git shortlog -sn --all --no-merges
-```
-
-```
-   156  José Yañez
-    23  dependabot[bot]
-     8  GitHub Actions
-     3  jose-yanez
+🚀 Active Services:
+┌─────────────────┬──────────┬─────────────────────────────────┐
+│ Service         │ Status   │ What it does                    │
+├─────────────────┼──────────┼─────────────────────────────────┤
+│ nestjs-server   │ Running  │ Main API server (the brain)     │
+│ graphql-engine  │ Running  │ Data query engine               │
+│ docker-daemon   │ Running  │ Container manager               │
+│ langchain-ai    │ Running  │ AI processing service           │
+│ jest-runner     │ Running  │ Automated testing               │
+└─────────────────┴──────────┴─────────────────────────────────┘
 ```
 
 ```bash
-$ find . -name "*.ts" -o -name "*.js" | xargs wc -l | tail -1
+# My coding statistics - like a report card for programming
+$ show-my-coding-stats
 ```
 
 ```
-  12847 total lines of code
-```
+📊 Contribution Summary:
+👨‍💻 José Yañez: 156 commits (most of the work - that's me!)
+🤖 Dependabot: 23 commits (automated security updates)
+⚙️ GitHub Actions: 8 commits (automated deployments)
+🔄 Other accounts: 3 commits (different usernames)
 
-```bash
-$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"
-```
-
-```
-NAMES                STATUS              PORTS
-postgres-db         Up 2 days           0.0.0.0:5432->5432/tcp
-redis-cache         Up 2 days           0.0.0.0:6379->6379/tcp
-nestjs-api          Up 2 days           0.0.0.0:3000->3000/tcp
-graphql-playground  Up 2 days           0.0.0.0:4000->4000/tcp
+📝 Code Statistics:
+📄 Total lines written: 12,847 lines of code
+💪 That's like writing a small novel, but in computer language!
 ```
 
 ```bash
-$ curl -s https://api.github.com/users/JoseManuelYC | jq '.public_repos, .followers, .following'
+# My development environment - the services that power my apps
+$ show-my-services
+```
+
+```
+🐳 Running Services (like having multiple apps open):
+┌──────────────────┬─────────────┬─────────────────────────────┐
+│ Service          │ Status      │ What it's for               │
+├──────────────────┼─────────────┼─────────────────────────────┤
+│ postgres-db      │ Up 2 days   │ Main database storage       │
+│ redis-cache      │ Up 2 days   │ Fast temporary storage      │
+│ nestjs-api       │ Up 2 days   │ Main application server     │
+│ graphql-playground│ Up 2 days   │ API testing interface       │
+└──────────────────┴─────────────┴─────────────────────────────┘
+```
+
+```bash
+# My GitHub profile summary - like my social media for developers
+$ show-github-profile
 ```
 
 ```json
 {
-  "public_repos": 42,
-  "followers": 156,
-  "following": 89,
-  "total_commits_2024": 1247,
-  "languages_used": ["TypeScript", "JavaScript", "Python", "SQL"],
-  "favorite_editor": "VS Code",
-  "coffee_consumed": "∞"
+  "public_projects": 42,
+  "followers": "156 people follow my work",
+  "following": "89 developers I learn from",
+  "commits_this_year": "1,247 code contributions",
+  "programming_languages": [
+    "TypeScript (JavaScript with types)",
+    "JavaScript (web programming)",
+    "Python (data & AI)",
+    "SQL (database queries)"
+  ],
+  "favorite_code_editor": "VS Code",
+  "coffee_consumed": "∞ (fuel for coding)"
 }
 ```
 
 ```bash
-$ cat ~/.ssh/config | grep -A 3 "Host github"
+# My development setup - how I connect to different services
+$ show-connection-setup
 ```
 
 ```
-Host github.com
-    HostName github.com
-    User git
-    IdentityFile ~/.ssh/jose_github_key
+🔐 GitHub Connection:
+✅ Securely connected to GitHub
+🔑 Using SSH key authentication (like a digital key)
+👤 Username: jose_github_key
 ```
 
 ```bash
-$ netstat -tuln | grep LISTEN
+# What ports my applications are using (like different doors for different services)
+$ show-active-ports
 ```
 
 ```
-tcp   0   0  0.0.0.0:3000   0.0.0.0:*   LISTEN   # NestJS API
-tcp   0   0  0.0.0.0:4000   0.0.0.0:*   LISTEN   # GraphQL Playground
-tcp   0   0  0.0.0.0:5432   0.0.0.0:*   LISTEN   # PostgreSQL
-tcp   0   0  0.0.0.0:6379   0.0.0.0:*   LISTEN   # Redis
-tcp   0   0  0.0.0.0:8080   0.0.0.0:*   LISTEN   # Monitoring
+🌐 Active Services:
+🚪 Port 3000: Main API (where my app lives)
+🎮 Port 4000: GraphQL Playground (testing interface)
+🗄️ Port 5432: PostgreSQL Database (data storage)
+⚡ Port 6379: Redis Cache (fast storage)
+📊 Port 8080: Monitoring Dashboard (system health)
+
+💡 Think of ports like different channels on TV - each serves different content!
 ```
 
 ```bash
@@ -235,29 +263,43 @@ availability=open_to_opportunities
 </div>
 
 ```bash
-$ echo "$(date): System status check" >> /var/log/developer.log
+# Daily status report - how things are going today
+$ check-daily-status
 ```
 
 ```
-[2024-01-14 11:46:23] INFO: All systems operational ✅
-[2024-01-14 11:46:23] INFO: Code quality: EXCELLENT 🚀
-[2024-01-14 11:46:23] INFO: Coffee level: OPTIMAL ☕
-[2024-01-14 11:46:23] INFO: Motivation: MAXIMUM 💪
-[2024-01-14 11:46:23] INFO: Bug count: MINIMAL 🐛
-[2024-01-14 11:46:23] INFO: Learning mode: ACTIVE 📚
+📅 Today's Developer Report [2024-01-14 11:46:23]
+
+✅ All systems working perfectly!
+🚀 Code quality: EXCELLENT (clean and well-written)
+☕ Coffee level: OPTIMAL (properly caffeinated)
+💪 Motivation: MAXIMUM (ready to build amazing things)
+🐛 Bug count: MINIMAL (very few issues to fix)
+📚 Learning mode: ACTIVE (always discovering new things)
+🎯 Focus level: HIGH (in the zone!)
+� Mood: EXCITED (love what I do!)
 ```
 
 ```bash
-$ figlet "Always Coding" | lolcat
+# My motto in big letters (ASCII art)
+$ show-my-motto
 ```
 
 ```
-    _    _                           ____          _ _
-   / \  | |_      ____ _ _   _ ___   / ___|___   __| (_)_ __   __ _
-  / _ \ | \ \ /\ / / _` | | | / __| | |   / _ \ / _` | | '_ \ / _` |
- / ___ \| |\ V  V / (_| | |_| \__ \ | |__| (_) | (_| | | | | | (_| |
-/_/   \_\_| \_/\_/ \__,_|\__, |___/  \____\___/ \__,_|_|_| |_|\__, |
-                       |___/                               |___/
+ ╔══════════════════════════════════════════════════════════╗
+ ║                                                          ║
+ ║     █████╗ ██╗     ██╗    ██╗ █████╗ ██╗   ██╗███████╗  ║
+ ║    ██╔══██╗██║     ██║    ██║██╔══██╗╚██╗ ██╔╝██╔════╝  ║
+ ║    ███████║██║     ██║ █╗ ██║███████║ ╚████╔╝ ███████╗  ║
+ ║    ██╔══██║██║     ██║███╗██║██╔══██║  ╚██╔╝  ╚════██║  ║
+ ║    ██║  ██║███████╗╚███╔███╔╝██║  ██║   ██║   ███████║  ║
+ ║    ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝  ║
+ ║                                                          ║
+ ║              CODING & LEARNING                           ║
+ ║                                                          ║
+ ╚══════════════════════════════════════════════════════════╝
+
+💡 Translation: I'm always writing code and learning new things!
 ```
 
 <div align="center">
