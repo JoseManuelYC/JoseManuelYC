@@ -88,28 +88,6 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
