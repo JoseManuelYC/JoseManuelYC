@@ -55,7 +55,7 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=Backend+Development;Databases+%26+Cloud;AI+%26+Automation;Frontend+%26+Testing" alt="Tech Categories" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97A7&center=true&vCenter=true&width=435&lines=Backend+Development;Databases+%26+Cloud;AI+%26;Frontend+%26+Testing" alt="Tech Categories" />
 
 <br>
 
