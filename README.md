@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm José Yañez
 
-## 🚀 Backend Developer & AI Enthusiast
+## 🚀 Backend Developer & AI Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;NestJS+%7C+GraphQL+%7C+AWS+%E2%98%81%EF%B8%8F;AI+%26+Automation%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
