@@ -93,7 +93,7 @@ Hey there! I'm José, a passionate Backend Developer with a love for clean code 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYCsd&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYC&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
