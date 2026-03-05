@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-Hey there! I'm José, a passionate Backend Developer with a love for clean code and scalable solutions. When I'm not coding, you'll find me enjoying soccer ⚽, discovering new music 🎵, or diving into video games 🎮. I'm on a continuous journey of learning and growth in the tech world. 
+Hey there! I'm José, a passionate Backend Developer with a love for clean code and scalable solutions. When I'm not coding, you'll find me enjoying soccer ⚽, discovering new music 🎵, or diving into video games 🎮. I'm on a continuous journey of learning and growth in the tech world.
 
 <div align="center">
 
