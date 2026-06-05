@@ -134,20 +134,43 @@ Goals:
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<table>
+<tr>
+<td width="50%">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYC&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 
-### 🏆 GitHub Trophies
+</td>
+<td width="50%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-### 📈 Most Used Languages
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+### � What I Bring to the Table
+
+<table>
+<tr>
+<td align="center">🏗️<br><strong>Architecture</strong><br><sub>Scalable systems</sub></td>
+<td align="center">🔄<br><strong>APIs</strong><br><sub>RESTful & GraphQL</sub></td>
+<td align="center">☁️<br><strong>Cloud</strong><br><sub>AWS deployment</sub></td>
+<td align="center">🤖<br><strong>AI Integration</strong><br><sub>Automation tools</sub></td>
+</tr>
+</table>
+
+### 🚀 Currently Building
+
+**Exploring AI-powered automation** • **Optimizing backend performance** •
+**Learning new patterns**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -162,6 +185,43 @@ Goals:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseManuelYC/JoseManuelYC/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseManuelYC/JoseManuelYC/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Areas of Expertise
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
+<br><strong>Backend</strong>
+<br><sub>NestJS • GraphQL</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" />
+<br><strong>Cloud</strong>
+<br><sub>AWS • Docker</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
+<br><strong>Databases</strong>
+<br><sub>PostgreSQL • MongoDB</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" />
+<br><strong>Frontend</strong>
+<br><sub>React • Next.js</sub>
+</td>
+</tr>
+</table>
+
+### 📚 Learning Journey
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Continuous+learner+%F0%9F%93%96;Problem+solver+%F0%9F%A7%A9;Team+player+%F0%9F%A4%9D;Innovation+driven+%F0%9F%9A%80" alt="Learning Journey" />
 
 </div>
 
