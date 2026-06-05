@@ -140,11 +140,6 @@ Goals:
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-
-</td>
-<td width="50%">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
 </td>
@@ -269,9 +264,3 @@ Goals:
 </div>
 
 ---
-
-<div align="center">
-
-**Made with ❤️ by José Yañez**
-
-</div>
