@@ -22,21 +22,21 @@
 
 ```typescript
 const jose = {
-    role: "Backend Developer",
-    location: "🌎",
-    passions: ["⚽ Soccer", "🎵 Music", "🎮 Gaming", "💻 Clean Code"],
-    currentFocus: "Building scalable solutions with AI integration",
-    lifePhilosophy: "Always learning, always growing 🚀",
-    
-    getRandomFact: () => {
-        const facts = [
-            "I debug with console.log and I'm not ashamed 😄",
-            "Coffee-driven development is my methodology ☕",
-            "I believe in the power of good documentation 📚"
-        ];
-        return facts[Math.floor(Math.random() * facts.length)];
-    }
-};
+  role: 'Backend Developer',
+  location: '🌎',
+  passions: ['⚽ Soccer', '🎵 Music', '🎮 Gaming', '💻 Clean Code'],
+  currentFocus: 'Building scalable solutions with AI integration',
+  lifePhilosophy: 'Always learning, always growing 🚀',
+
+  getRandomFact: () => {
+    const facts = [
+      "I debug with console.log and I'm not ashamed 😄",
+      'Coffee-driven development is my methodology ☕',
+      'I believe in the power of good documentation 📚'
+    ]
+    return facts[Math.floor(Math.random() * facts.length)]
+  }
+}
 ```
 
 <div align="center">
@@ -54,15 +54,15 @@ const jose = {
 Backend:
   - NestJS & GraphQL
   - TypeScript & Node.js
-  
+
 Cloud & DevOps:
   - AWS Services
   - Docker Containers
-  
+
 AI & Automation:
   - LangChain
   - Botpress & N8N
-  
+
 Testing:
   - Jest
 ```
@@ -78,7 +78,7 @@ Learning:
   - Advanced AI Integration
   - Microservices Architecture
   - System Design Patterns
-  
+
 Goals:
   - Scalable Solutions
   - Best Practices
@@ -102,16 +102,19 @@ Goals:
 <br>
 
 ### Backend & Core Technologies
+
 <p>
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,typescript,graphql,javascript&theme=dark&perline=6" />
 </p>
 
 ### Databases & Cloud Infrastructure
+
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,aws,docker,git&theme=dark&perline=6" />
 </p>
 
 ### AI, Automation & Tools
+
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=000000">
 <img src="https://img.shields.io/badge/Botpress-6C5CE7?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000">
@@ -120,6 +123,7 @@ Goals:
 </p>
 
 ### Frontend & Testing
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,materialui,tailwind,jest&theme=dark&perline=6" />
 </p>
@@ -135,13 +139,15 @@ Goals:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoseManuelYC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseManuelYC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYC&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseManuelYC&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=JoseManuelYC&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" />
 
 ### 📈 Most Used Languages
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseManuelYC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 
@@ -156,8 +162,6 @@ Goals:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseManuelYC/JoseManuelYC/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseManuelYC/JoseManuelYC/output/github-contribution-grid-snake.svg">
 </picture>
-
-<sub>*Note: To enable the snake animation, you'll need to set up the GitHub Action. See instructions below.*</sub>
 
 </div>
 
@@ -183,11 +187,13 @@ Goals:
 </p>
 
 ### 💭 Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br>
 
 ### ⚡ Fun Fact
+
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=00D9FF" alt="Jokes Card" />
 
 <br>
@@ -202,6 +208,10 @@ Goals:
 
 </div>
 
-## License
+---
 
-MIT [licensed](LICENSE).
+<div align="center">
+
+**Made with ❤️ by José Yañez**
+
+</div>
