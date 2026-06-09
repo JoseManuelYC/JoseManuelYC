@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=José%20Yañez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Backend+Solutions+%F0%9F%9A%80;NestJS+%E2%9C%A8+GraphQL+%E2%9C%A8+AWS+%E2%98%81%EF%B8%8F;Passionate+about+AI+%26+Automation+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Backend+Solutions+%F0%9F%9A%80;NestJS+%E2%9C%A8+GraphQL+%E2%9C%A8+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br>
@@ -30,9 +30,9 @@ const jose = {
 
   getRandomFact: () => {
     const facts = [
-      "I debug with console.log and I'm not ashamed 😄",
-      'Coffee-driven development is my methodology ☕',
-      'I believe in the power of good documentation 📚'
+      "I debug with console.log and I'm not ashamed",
+      'Coffee-driven development is my methodology',
+      'I believe in the power of good documentation'
     ]
     return facts[Math.floor(Math.random() * facts.length)]
   }
@@ -265,13 +265,5 @@ Goals:
 ### 🎯 "Code is poetry written in logic"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by José Yañez**
 
 </div>
