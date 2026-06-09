@@ -226,10 +226,6 @@ Goals:
 </tr>
 </table>
 
-### 💫 Activity Pulse
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=💻+Coding+Mode+Activated+⚡;🚀+Deploying+to+Production+☁️;🔧+Refactoring+Legacy+Code+♻️;🎯+Solving+Complex+Problems+🧩;☕+Coffee+Driven+Development+Engaged;🌟+Building+Something+Amazing" alt="Activity" />
-
 </div>
 
 ---
