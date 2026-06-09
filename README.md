@@ -173,13 +173,62 @@ Goals:
 
 <div align="center">
 
-## 🎨 Contribution Snake
+## � Developer Journey
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseManuelYC/JoseManuelYC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseManuelYC/JoseManuelYC/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoseManuelYC/JoseManuelYC/output/github-contribution-grid-snake.svg">
-</picture>
+<table>
+<tr>
+<td width="50%" align="center">
+
+```ascii
+    ╔═══════════════════════╗
+    ║   DEVELOPER MODE ON   ║
+    ╠═══════════════════════╣
+    ║                       ║
+    ║   🎯 Backend Dev      ║
+    ║   Building APIs       ║
+    ║   & Microservices     ║
+    ║                       ║
+    ║   ☁️  Cloud Engineer  ║
+    ║   Deploying on AWS    ║
+    ║   & Docker            ║
+    ║                       ║
+    ║   🤖 AI Explorer      ║
+    ║   Integrating         ║
+    ║   LangChain & Bots    ║
+    ║                       ║
+    ╚═══════════════════════╝
+```
+
+**💭 Current Focus:** Exploring AI automation & scalable architectures
+
+</td>
+<td width="50%" align="center">
+
+### 🏆 Achievements Unlocked
+
+```text
+🎯 Backend Wizard
+   ├─ NestJS Mastery
+   ├─ GraphQL Expert
+   └─ API Architect
+
+☁️  Cloud Navigator
+   ├─ AWS
+   └─ Docker
+
+🤖 AI Enthusiast
+   ├─ LangChain
+   ├─ Automation
+   └─ Botpress
+```
+
+</td>
+</tr>
+</table>
+
+### 💫 Activity Pulse
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=💻+Coding+Mode+Activated+⚡;🚀+Deploying+to+Production+☁️;🔧+Refactoring+Legacy+Code+♻️;🎯+Solving+Complex+Problems+🧩;☕+Coffee+Driven+Development+Engaged;🌟+Building+Something+Amazing" alt="Activity" />
 
 </div>
 
