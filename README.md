@@ -208,9 +208,9 @@ Goals:
 
 ```text
 🎯 Backend Wizard
-   ├─ NestJS Mastery
-   ├─ GraphQL Expert
-   └─ API Architect
+   ├─ NestJS
+   ├─ GraphQL
+   └─ API
 
 ☁️  Cloud Navigator
    ├─ AWS
