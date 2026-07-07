@@ -202,28 +202,6 @@ Goals:
 **💭 Current Focus:** Exploring AI automation & scalable architectures
 
 </td>
-<td width="50%" align="center">
-
-### 🏆 Achievements Unlocked
-
-```text
-🎯 Backend Wizard
-   ├─ NestJS
-   ├─ GraphQL
-   └─ API
-
-☁️  Cloud Navigator
-   ├─ AWS
-   └─ Docker
-
-🤖 AI Enthusiast
-   ├─ LangChain
-   ├─ Automation
-   └─ Botpress
-```
-
-</td>
-</tr>
 </table>
 
 </div>
