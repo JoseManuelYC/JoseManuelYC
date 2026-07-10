@@ -147,7 +147,7 @@ Goals:
 <tr>
 <td colspan="2" align="center">
 
-### � What I Bring to the Table
+###  What I Bring to the Table
 
 <table>
 <tr>
